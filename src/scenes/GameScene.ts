@@ -16,6 +16,10 @@ export class GameScene extends Phaser.Scene {
 
   constructor() { super("GameScene"); }
   create(): void {
+    // Phaser restarts the same Scene instance; reset every run-specific field here.
+    this.hp = 100; this.ammo = 30; this.wave = 1; this.kills = 0;
+    this.fireCooldown = 0; this.reloadTimer = 0; this.dead = false; this.lastDamage = 0;
+    window.gameControls.x = 0; window.gameControls.y = 0; window.gameControls.firing = false;
     this.makeTextures();
     this.physics.world.setBounds(0, 0, 1800, 1200);
     this.drawWorld();
