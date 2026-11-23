@@ -8,6 +8,8 @@
 Enemies close in from every direction. Keep moving, line up your shots, and survive as long as you can.
 
 [![PLAY NOW](https://img.shields.io/badge/▶_PLAY_NOW-OUTPOST_ZERO-2ea44f?style=for-the-badge)](https://rijonbd.github.io/mini-strategy-game/)
+[![Join Discord](https://img.shields.io/badge/💬_JOIN_THE_COMMUNITY-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/k9Ey2zg47T)
+
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Phaser](https://img.shields.io/badge/Powered_by-Phaser_3-8b5cf6?style=flat-square)](https://phaser.io/)
 [![GitHub Pages](https://img.shields.io/badge/Hosted_on-GitHub_Pages-222222?style=flat-square&logo=github)](https://pages.github.com/)
@@ -88,6 +90,20 @@ No separate game server or paid hosting is needed. The browser runs the game; Gi
 
 </div>
 
+## 💬 Join the community
+
+<div align="center">
+
+### Have feedback, ideas, or just want to talk games?
+
+Join the Discord community to share your experience, report issues, suggest improvements, and follow project discussions.
+
+[![Join the OUTPOST ZERO Discord](https://img.shields.io/badge/ JOIN_OUR_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/k9Ey2zg47T)
+
+**[discord.gg/k9Ey2zg47T](https://discord.gg/k9Ey2zg47T)**
+
+</div>
+
 ## 🛠️ Run locally
 
 You need Node.js installed.
@@ -113,6 +129,6 @@ The deployable static site is generated in `dist/`.
 
 **OUTPOST ZERO** · A small browser game built for quick survival sessions.
 
-[Play the game](https://rijonbd.github.io/mini-strategy-game/) · [View source code](https://github.com/RijonBD/mini-strategy-game)
+[Play the game](https://rijonbd.github.io/mini-strategy-game/) · [Join Discord](https://discord.gg/k9Ey2zg47T) · [View source code](https://github.com/RijonBD/mini-strategy-game)
 
 </div>
